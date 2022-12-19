@@ -55,14 +55,16 @@ p {
     background-color:transparent;
     color:red;
     text-shadow:1px 1px goldenrod;
-    font-size:calc(1.2em + 1vw + 1vh);
+    font-size:calc(1em + 1vw + 1vh);
+    line-height: 1em;
     font-weight:bold;
     z-index:2;
     animation-duration: 3s;
     animation-name: dos;
     animation-iteration-count: 5;
     animation-direction: alternate;
-
+    
+        
 }
 @keyframes dos {
     from{
