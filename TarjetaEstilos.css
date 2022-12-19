@@ -1,6 +1,5 @@
 /* 
-Tarjeta para examen 1ª Trimestre
-navidad css
+Tarjeta para examen 1ª Trimestre css
  */
 
  * {
@@ -97,5 +96,7 @@ div:active, div:hover {
     img, div {
         width:70vh;
         margin-left:calc(50vw - 35vh);
+        font-size: small;
     }
+   
 }
